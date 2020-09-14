@@ -40,7 +40,7 @@ The user can observe the angle of heel from the protractor and note it down. Now
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-<ul>
+<ol>
 <li>Formula to calculate the meta-centric height (GM)?
 <ol><li>(W * x)/(w * tan &theta;)</li>
 <li>(x * tan &theta;)/(x * W)</li>
@@ -67,7 +67,7 @@ The user can observe the angle of heel from the protractor and note it down. Now
 <li>F<sub>b</sub>=(V<sub>s</sub> * g)/D</li>
 <li>F<sub>b</sub>=V<sub>s</sub> * D * g</li>
 <li>F<sub>b</sub>=(D * g)/ V<sub>s</sub></li></ol></li>
-</ul>
+</ol>
 
 
 ##### 2.5 Allow pitfalls:
