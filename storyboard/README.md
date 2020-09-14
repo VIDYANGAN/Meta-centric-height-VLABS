@@ -81,7 +81,8 @@ NIL.
 
 ##### 2.7 Equations/formulas: NA
 #1:- meta-centric height, GM = (w * x)/(W * tan &theta;)<br>
-&emsp; &emsp; &emsp;Where, w= applied weight.<br>
+&emsp; &emsp; &emsp;Where, <br>
+&emsp; &emsp; &emsp; &emsp;w= applied weight.<br>
 &emsp; &emsp; &emsp; &emsp;W= Weight of ship=8.55kg (assumed).<br>
 &emsp; &emsp; &emsp; &emsp;x= distance at which weight is applied.<br>
 &emsp; &emsp; &emsp; &emsp;&theta; = angle of heel.<br>
@@ -96,5 +97,5 @@ NIL.
 <img src="mindmap/mindmap.png"/><br>
 
 ### 5. Storyboard :
-Storyboard: <a href="Storyboard/carwiper.gif"> [here]</a>
+Storyboard: <a href="storyboard/storyboard.png"> [here]</a>
 
