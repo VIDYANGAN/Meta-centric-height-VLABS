@@ -97,5 +97,5 @@ NIL.
 <img src="mindmap/mindmap.png"/><br>
 
 ### 5. Storyboard :
-<img src="storyboard/storyboard.jpg"/><br>
+<img src="storyboard/storyboard.png"/><br>
 
