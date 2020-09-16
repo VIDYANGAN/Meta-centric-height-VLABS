@@ -90,25 +90,25 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "1)	The premise of floatation of bodies is based on the premise of:",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Centre of buoyancy.",                  ///// Write the option 1 inside double quotes
+        b: "Meta Centre",                  ///// Write the option 2 inside double quotes
+        c: "Centre of Bouyancy",                  ///// Write the option 3 inside double quotes
+        d: "None of the Above"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "The meta-centric height is effected by the change in density?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "True",                  ///// Write the option 1 inside double quotes
+        b: "False",                  ///// Write the option 2 inside double quotes
+        c: "Can't Say",                  ///// Write the option 3 inside double quotes
+        d: "None of the Above"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
 
@@ -135,6 +135,16 @@
     Copy above section
 
     */
+   {
+    question: "2)	For a completely immersed body, the meta-centric height is always zero.",
+    answers: {
+      a: "True",
+      b: "False",
+      c: "Can't Say ",
+      d: "None of the above."
+    },
+    correctAnswer: "b"
+  },
 
 
 

@@ -2,44 +2,44 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
-			"Technology": ""         
+			"Experiment": "To determine the meta-centric height of a given ship model.",     
+			"Lab": "Fluid Mechanics Lab",               
+			"Discipline": "Civil Engineering",				 
+			"Technology": "HTML, JS, CSS."         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "",         
-      "Institute": "",         
-      "InstituteAcronym": ""   
+      "Developer": "SHAILENDRA KUMAR YADAV",         
+      "Institute": "UNITED COLLEGE OF ENGINEERING AND RESRARCH",         
+      "InstituteAcronym": "UCER"   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "VIDYANGAN SHYAM",             
+      "Institute": "UNITED COLLEGE OF ENGINEERING AND RESRARCH",               
+			"InstituteAcronym": "UCER"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "MOHAMMAD SAQUIB KHAN",              
+      "Institute": "UNITED COLLEGE OF ENGINEERING AND RESRARCH",               
+			"InstituteAcronym": "UCER"         
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "MALIKA SHARMA",             
+      "Institute": "UNITED COLLEGE OF ENGINEERING AND RESRARCH",               
+			"InstituteAcronym": "UCER"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "AYUSH S. DWIVEDEE",              
+      "Institute": "UNITED COLLEGE OF ENGINEERING AND RESRARCH",               
+			"InstituteAcronym": "UCER"         
        }
    ]
 
