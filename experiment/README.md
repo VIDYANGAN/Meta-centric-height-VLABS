@@ -44,6 +44,7 @@ The weight w is moved across the vessel towards right through a distance x. The 
 <li>In the next screen user will observe that the boat got tilted with some angle &theta; due to the application of the weight. User will observe this angle of tilt and note it for the calculation of the meta-centric height. (Simulator provides few fixed values for angle of tilt based upon the real experimental data). Click on the NEXT button.</li>
 <li>On the next screen, a table to take input values by the user will be shown. The user will enter the values for applied weight and distance of weight applied. Based upon these values, the simulator will display the value of angle of tilt.</li>
 <li>On the NEXT screen, a standard data for calculating meta-centric height and an observation table will be shown. The user needs to calculate the meta-centric height depending upon the provided values and check their answer with that of the simulator.</li></ol><br>
+
 ### Pre Test: <br>
 Q1. A point from which the weight of the body may be considered to act is known as:<br>
 <b>a) Centre of gravity<br></b>
