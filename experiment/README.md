@@ -9,11 +9,11 @@ As a matter of fact the meta-centric height of a floating body is a direct measu
 &emsp;&emsp;&emsp;&emsp;1.Stable equilibrium<br>
 &emsp;&emsp;&emsp;&emsp;2.Unstable equilibrium <br>
 &emsp;&emsp;&emsp;&emsp;3.Neutral equilibrium <br>
-<b>STABLE EQUILIBRIUM:</b> A body is said to be in a stable equilibrium if it returns back to its original position when given a small angular displacement. This happens when the meta centre is higher than the center of gravity of the floating body.<br>
+<u>STABLE EQUILIBRIUM:</u> A body is said to be in a stable equilibrium if it returns back to its original position when given a small angular displacement. This happens when the meta centre is higher than the center of gravity of the floating body.<br>
 <br>
-<b>UNSTABLE EQUILIBRIUM :</b> A body is said to be in an unstable equilibrium if it does not return back to its original position and heels further away when given a small angular displacement. This happens when the meta centre is lower than the center of gravity of the floating body.<br>
+<u>UNSTABLE EQUILIBRIUM :</u> A body is said to be in an unstable equilibrium if it does not return back to its original position and heels further away when given a small angular displacement. This happens when the meta centre is lower than the center of gravity of the floating body.<br>
  <br>
-<b>NEUTRAL EQUILIBRIUM:</b> A body is said to be in a Neutral Equilibrium if it occupies a new position and remains rest in this new position when given a small angular displacement. This happens when the meta centre coincides with the centre of gravity of the floating body.<br>
+<u>NEUTRAL EQUILIBRIUM:</u> A body is said to be in a Neutral Equilibrium if it occupies a new position and remains rest in this new position when given a small angular displacement. This happens when the meta centre coincides with the centre of gravity of the floating body.<br>
  <br>
  <br>
  <br>
