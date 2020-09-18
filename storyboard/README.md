@@ -45,27 +45,27 @@ The user can observe the angle of heel from the protractor and note it down. Now
 <ol><li>(W * x)/(w * tan &theta;)</li>
 <li>(x * tan &theta;)/(x * W)</li>
 <li>(W * tan &theta;)/(w * x)</li>
-<li><b>(w * x)/(W * tan &theta;)</b></li></ol>
+<b><li>(w * x)/(W * tan &theta;)</li></b></ol>
 </li>
 <li>The angle of tilt of a ship:
 <ol><li>Is independent of weight applied.</li>
 <li>Is independent of distance at which weight is applied.</li>
-<li><b>Depends on both, weight applied and distance at which weight is applied.</b></li>
+<b><li>Depends on both, weight applied and distance at which weight is applied.</li></b>
 <li>None of the above.</li></ol></li>
 <li>A point from which the  weight of the body may be considered to act is known as:
 <ol><li>Meta - Centre</li>
-<li><b>Centre of gravity</b></li>
+<b><li>Centre of gravity</li></b>
 <li>Centre of  Bouyancy</li>
 <li>None of the above</li></ol></li>
 <li>What is the condition for the equilibrium of the floating body?
-<ol><li><b>Meta centre lies above centre of gravity.</b></li>
+<ol><b><li>Meta centre lies above centre of gravity.</li></b>
 <li>Meta centre lies below centre of gravity.</li>
 <li>Meta centre coincides with centre of gravity.</li>
 <li>None of the above.</li></ol></li>
 <li>What is the formula to calculate force of buoyancy?
 <ol><li>F<sub>b</sub>=(V<sub>s</sub> * D)/g</li>
 <li>F<sub>b</sub>=(V<sub>s</sub> * g)/D</li>
-<li><b>F<sub>b</sub>=V<sub>s</sub> * D * g</b></li>
+<b><li>F<sub>b</sub>=V<sub>s</sub> * D * g</li></b>
 <li>F<sub>b</sub>=(D * g)/ V<sub>s</sub></li></ol></li>
 </ol>
 
