@@ -14,7 +14,7 @@ As a matter of fact the meta-centric height of a floating body is a direct measu
  <br>
  <br>
 <br>
- <text-align:centre img src="images/theoryimage.jpg"/><br>
+ <img src="images/theoryimage.jpg"/><br>
  Consider a ship floating in water as shown in figure. If slight angular displacement is given to the floating body in the clockwise direction, the centre of buoyancy shifts from B to B’ such that the line of action of force of buoyancy, Fb  through B’ cuts the axis at M, which is called the meta-centre and the distance GM is called the meta-centric height. The buoyant force Fb through B’ and weight w through G constitute a couple acting in anti-clockwise direction and thus bringing the floating body in the original position.<br>
 To determine the meta-centric height of a floating body, we know the centre of gravity of floating body. Place the known movable weight (w) over the centre of the body. <br>
 The weight w is moved across the vessel towards right through a distance x. The body will be tilted. The angle of tilt &theta; is measured by means of plumb line and a protractor attached on the body. The new centre of gravity of the body will shift to G’ as the weight w has been moved towards the right. The centre of buoyancy will change to B’ as the body has tilted. Under equilibrium, the moment caused by the movement of the load w through a distance x must be equal to the moment caused by the shift of the centre of gravity from G to G’. Thus:<br>
