@@ -1,7 +1,7 @@
-This folder has 
+
 ### Aim: <br>
 To determine the meta-centric height of a given ship model.<br>
-### Theory <br>
+### Theory: <br>
 <ul><li>Whenever a body, floating in a liquid is given a small angular displacement, it starts oscillating about some point, this point about which the body starts oscillating is called Meta Centre.</li>
 <li>A point from which the weight of a body or system may be considered to act is known as Centre of gravity.</li>
 <li>The distance between the center of gravity of a floating body and the meta centre is called meta-centric height.</li></ul><br>
@@ -37,14 +37,14 @@ The weight w is moved across the vessel towards right through a distance x. The 
 
 
 
-### Procedure <br>
+### Procedure: <br>
 <ol><li>The first screen of the simulator contains the labelled experimental set-up to make the user well aware with the experimental set-up.</li>
 <li>After the user clicks the next button, an empty tank containing the ship model is shown. The use will click on the drain pipe to close it and will again click on the inlet pipe to open the inlet valve to fill the tank with water. Click on the NEXT button.</li>
 <li>The tank gets filled with water and the boat floats in the water. The user will click on the movable weight to apply the weight on the ship. Click on the NEXT button.</li>
 <li>In the next screen user will observe that the boat got tilted with some angle &theta; due to the application of the weight. User will observe this angle of tilt and note it for the calculation of the meta-centric height. (Simulator provides few fixed values for angle of tilt based upon the real experimental data). Click on the NEXT button.</li>
 <li>On the next screen, a table to take input values by the user will be shown. The user will enter the values for applied weight and distance of weight applied. Based upon these values, the simulator will display the value of angle of tilt.</li>
 <li>On the NEXT screen, a standard data for calculating meta-centric height and an observation table will be shown. The user needs to calculate the meta-centric height depending upon the provided values and check their answer with that of the simulator.</li></ol><br>
-### Pre Test <br>
+### Pre Test: <br>
 Q1. A point from which the weight of the body may be considered to act is known as:<br>
 <b>a) Centre of gravity<br></b>
 b) Meta Centre<br>
@@ -65,7 +65,7 @@ d) None of the above.<br>
 
 
 
-### Post Test <br>
+### Post Test: <br>
 <br>
 Q1. The premise of floatation of bodies is based on the premise of:<br>
 &emsp;a) Centre of gravity<br>
@@ -84,5 +84,5 @@ Q3. For a completely immersed body, the meta-centric height is always zero.<br>
 &emsp;c) Can't be Determined<br>
 &emsp;d) none of these<br>
 
-### References <br>
+### References: <br>
 A textbook of FLUID MECHANICS AND HYDRAULIC MACHINES by DR. R. K. BANSAL.<br>
