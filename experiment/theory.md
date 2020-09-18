@@ -1,7 +1,7 @@
-•	Whenever a body, floating in a liquid is given a small angular displacement, it starts oscillating about some point, this point about which the body starts oscillating is called Meta Centre. <br>
-•	A point from which the weight of a body or system may be considered to act is known as Centre of gravity.<br>
-•	The distance between the center of gravity of a floating body and the meta centre is called meta-centric height.<br>
- As a matter of fact the meta-centric height of a floating body is a direct measure of its stability or in other words more the metacentric height of a floating body more it will be stable. A body is said to be in equilibrium when it remains in a steady state, while floating in a liquid. Following are the three conditions of equilibrium of a floating body:<br>
+<ul><li>Whenever a body, floating in a liquid is given a small angular displacement, it starts oscillating about some point, this point about which the body starts oscillating is called Meta Centre.</li>
+<li>A point from which the weight of a body or system may be considered to act is known as Centre of gravity.</li>
+<li>The distance between the center of gravity of a floating body and the meta centre is called meta-centric height.</li></ul><br>
+As a matter of fact the meta-centric height of a floating body is a direct measure of its stability or in other words more the metacentric height of a floating body more it will be stable. A body is said to be in equilibrium when it remains in a steady state, while floating in a liquid. Following are the three conditions of equilibrium of a floating body:<br>
 1.	Stable equilibrium<br>
 2.	Unstable equilibrium <br>
 3.	Neutral equilibrium <br>
