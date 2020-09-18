@@ -13,9 +13,9 @@ a) (W * x)/(w * tan &theta;)<br>
 c) (x * tan &theta;)/(x * W)<br>
 d) (W * tan &theta;)/(w * x)<br>
 
-3)The angle of tilt of a ship:<br>
-a) A.	Is independent of weight applied.<br>
-<b>C.	Depends on both, weight applied and distance at which weight is applied. <br></b>
-c) B.	Is independent of distance at which weight is applied.<br>
-d) D.	None of the above.<br>
+&emsp;3)The angle of tilt of a ship:<br>
+&emsp; &emsp;a) A.	Is independent of weight applied.<br>
+&emsp; &emsp;<b>C.	Depends on both, weight applied and distance at which weight is applied. <br></b>
+&emsp; &emsp;c) B.	Is independent of distance at which weight is applied.<br>
+&emsp; &emsp;d) D.	None of the above.<br>
 
