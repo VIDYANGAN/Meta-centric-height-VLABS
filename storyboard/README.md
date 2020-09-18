@@ -90,12 +90,18 @@ NIL.
 
 
 ### 3. Flowchart 4
-<img src="flowchart/flowchart.png"/><br>
-
+<p align="center">
+  <img src="flowchart/flowchart.png"/><br>
+</p>
+<br>
 
 ### 4. Mindmap:
+<p align="center">
 <img src="mindmap/mindmap.png"/><br>
-
+</p>
+<br>
 ### 5. Storyboard :
+<p align="center">
 <img src="storyboard/storyboard.png"/><br>
+</p>
 
