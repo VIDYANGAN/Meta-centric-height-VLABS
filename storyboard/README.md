@@ -16,7 +16,7 @@ The complete experiment revolves around the calculation of meta-centric height o
 #### 2.1 Set the Visual Stage Description:
 The experimental set-up consists of rectangular tank made of glass (assumed) of about 50L capacity kept on a vertical stand, tank having a drain pipe to drain the filled water after the experiment and an inlet pipe to fill the tank with water for experiment. A hollow ship model made of any material, be it aluminum or glass, is kept in the tank. On the upper horizontal surface of the ship there is a horizontal bar attached, used to hang the weight and a protractor & a needle is also attached at the midpoint of the bar, which is used to take the reading for angle of heel.<br>
 When the user gets to start the experiment, firstly he turns off the knob of drain pipe and then opens the knob of inlet pipe to allow water to be filled in the tank upto the height of 3/4th of the height of the tank. As the water is filled in the tank the ship floats in the tank and it is assumed that the ship is in equilibrium condition. When the user applies the weight on the horizontal bar, the ship tilts in the direction of application of the weight and the needle deflects in the opposite direction of the application of the weight.
-The user can observe the angle of heel from the protractor and note it down. Now this reading can be used to calculate the meta-centric height of the ship model using the formula1 of meta-centric height, and the user will now be able to infer the equilibrium & non-equilibrium conditions for the floating body. After calculating the meta-centric height, the user can verify their calculations with that of simulator’s calculations through VERIFY button.
+The user can observe the angle of heel from the protractor and note it down. Now this reading can be used to calculate the meta-centric height of the ship model using the formula1 of meta-centric height, and the user will now be able to infer the equilibrium & non-equilibrium conditions for the floating body. 
 
 
 #### 2.2 Set User Objectives & Goals:
@@ -35,7 +35,7 @@ The user can observe the angle of heel from the protractor and note it down. Now
 <li>Now the user applies the Weight on either side of the needle and at any distance to provide angular displacement to the ship.</li>
 <li>On the next screen, the user can observe the angle of heel of the ship. A table will be displayed in the right which asks the user for the value of applied weight and distance of application of weight.</li>
 <li>Based on the values entered by the user for weight and distance, a value for angle of heel will be displayed by the simulator which is obtained by performing the real experiments on standard conditions.</li>
-<li>Now on the NEXT screen of the simulator, some standard data used and an observations table will be shown containing the entered values by the user and the calculated value of the meta-centric height of the ship model. Also the user gets an option to verify their set of calculations with the calculations of the simulator.</li></ol>
+<li>Now on the NEXT screen of the simulator, some standard data used and an observations table will be shown containing the entered values by the user and the calculated value of the meta-centric height of the ship model. </li></ol>
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
